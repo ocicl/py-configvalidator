@@ -2,10 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/arbscht/py-configvalidator.git
-https://gitorious.org/py-configvalidator/py-configvalidator.git   |
-| commit  |   |
-| systems | py-configvalidator |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/arbscht/py-configvalidator.git |
+| commit  | d8bf453                                               |
+| systems | py-configvalidator                                    |
+|---------+-------------------------------------------------------|
